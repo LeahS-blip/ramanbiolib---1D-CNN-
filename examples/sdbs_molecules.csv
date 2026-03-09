@@ -1,0 +1,11 @@
+class,molecule_name
+AminoAcids,Alanine
+AminoAcids,Glycine
+AminoAcids,Valine
+AminoAcids,Serine
+Proteins,Albumin
+Proteins,Collagen
+Lipids,Palmitic acid
+Lipids,Stearic acid
+Carbohydrates,Glucose
+Carbohydrates,Fructose
